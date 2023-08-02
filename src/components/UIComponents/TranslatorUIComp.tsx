@@ -68,12 +68,6 @@ export const TranslatorUI = () => {
           </div>
         </section>
 
-        <pre>
-          {
-            JSON.stringify(state, null, 4)
-          }
-        </pre>
-
       </main>
 
     </>
